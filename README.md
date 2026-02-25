@@ -4,9 +4,9 @@
 
 ## Estado del proyecto
 
-El repositorio en fase avanzada (no está completo aún) recoje el código utilizado para una investigación académica preuniversitaria terminada, que será continuada con posterioridad.
-
 El objetivo del trabajo es un estudio cuantitativo de la crispación lingüística en el Congreso de los Diputados desde la Transición hasta la actualidad.
+
+El repo no se encuentra en su versión definitiva.
 
 Incluye:
 - Construcción y limpieza del corpus (PDF/OCR/TXT).
